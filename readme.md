@@ -2,19 +2,7 @@
 <h1 align="center">Projeto JS (FullStack React JS, React Native e Node JS) <h1>
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![JAVASCRIPT](https://img.shields.io/badge/JS-%.svg?style=for-the-badge&logo=JAVASCRIPT)
-
-![RN](https://img.shields.io/badge/REACT_NATIVE-%23E34F26.svg?style=for-the-badge&logo=REACT)
-
-
-![React](https://img.shields.io/badge/REACT_JS-%23E34F26.svg?style=for-the-badge&logo=REACT)
-
-
-![NodeJS](https://img.shields.io/badge/NODE_JS-%231572B6.svg?style=for-the-badge&logo=JAVASCRIPT)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JS-%.svg?style=for-the-badge&logo=JAVASCRIPT) ![RN](https://img.shields.io/badge/REACT_NATIVE-%23E34F26.svg?style=for-the-badge&logo=REACT) ![React](https://img.shields.io/badge/REACT_JS-%23E34F26.svg?style=for-the-badge&logo=REACT) ![NodeJS](https://img.shields.io/badge/NODE_JS-%231572B6.svg?style=for-the-badge&logo=JAVASCRIPT)
 
 
 🟡 Status do projeto: EM DESENVOLVIMENTO    :
